@@ -54,8 +54,13 @@ Page specific
 
 @import "layout";
 
+.sliding-menu-button {
+  position: absolute !important;
+}
+
 .sliding-menu-button.slide {
   transform: translateX(0) !important;
+  position: absolute;
 }
 
 // @media screen and (min-width: 56.25em) {
@@ -78,6 +83,7 @@ Page specific
 
 #thumbnail-slider {
   margin:0 auto !important; /*center-aligned*/
+  margin-bottom: $gutter !important;
   width:100% !important;/*width:400px;*/
   max-width: 100% !important;
   // padding:20px;
