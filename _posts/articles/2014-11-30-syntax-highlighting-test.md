@@ -1,15 +1,15 @@
 ---
+title: Syntax Highlighting Test
+date: 2014-11-30 03:08:14 Z
+categories:
+- articles
 layout: article
-title: "Syntax Highlighting Test"
-modified:
-categories: articles
-excerpt: "Demo post to test the various ways of using syntax highlighting."
-tags: []
+modified: 
+excerpt: Demo post to test the various ways of using syntax highlighting.
 image:
-  feature:
-  teaser:
-  thumb:
-date: 2014-11-29T22:08:14-05:00
+  feature: 
+  teaser: 
+  thumb: 
 ---
 
 [Syntax highlighting](http://en.wikipedia.org/wiki/Syntax_highlighting) is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.

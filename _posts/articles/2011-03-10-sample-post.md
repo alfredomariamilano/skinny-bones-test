@@ -1,9 +1,12 @@
 ---
+title: Sample Post Style Guide
+date: 2011-03-10 00:00:00 Z
+categories:
+- articles
+tags:
+- sample
 layout: article
-title: "Sample Post Style Guide"
-categories: articles
-modified: 2016-06-01T16:28:11-04:00
-tags: [sample]
+modified: 2016-06-01 20:28:11 Z
 comments: true
 ads: false
 ---

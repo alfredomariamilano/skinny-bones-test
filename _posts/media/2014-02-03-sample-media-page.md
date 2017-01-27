@@ -1,8 +1,10 @@
 ---
+title: Media Post with Large Feature Image
+date: 2014-02-03 00:00:00 Z
+categories:
+- media
 layout: media
-title: "Media Post with Large Feature Image"
-categories: media
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: Custom written post descriptions are the way to go... if you're not lazy.
 ads: true
 share: false
 image:

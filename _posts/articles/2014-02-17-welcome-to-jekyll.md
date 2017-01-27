@@ -1,8 +1,10 @@
 ---
+title: Welcome to Jekyll!
+date: 2014-02-17 00:00:00 Z
+categories:
+- articles
 layout: article
-title:  "Welcome to Jekyll!"
-categories: articles
-modified: 2016-06-01T16:28:57-04:00
+modified: 2016-06-01 20:28:57 Z
 share: false
 ads: true
 ---
