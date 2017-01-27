@@ -54,6 +54,23 @@ Page specific
 
 @import "layout";
 
+@import "vendor/unslider/unslider";
+
+.unslider-wrap.unslider-carousel {
+  text-align: center;
+  a {
+    text-decoration: none;
+    position: relative;
+    .slideshow-div {
+      background-position: center;
+      background-size: cover;
+      display: inline-block;
+      width: 18vw;
+      height: calc(18vw * 1.5)
+    }
+  }
+}
+
 .sliding-menu-button {
   position: absolute !important;
 }
