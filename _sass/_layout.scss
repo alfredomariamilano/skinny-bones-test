@@ -16,6 +16,10 @@
 	}
 	.inner-wrap {
 		@include outer-container;
+    margin: {
+      left: 0;
+      right: 0;
+    }
 	}
 }
 .site-title {

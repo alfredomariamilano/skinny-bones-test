@@ -83,7 +83,7 @@ function ThumbnailSlider(a) {
     var b = l.getElementsByTagName("head");
     if (b[e]) {
       var a = l.createElement("style");
-      b[0].appendChild(a);
+      // b[0].appendChild(a);
       return a.sheet ? a.sheet : a.styleSheet
     } else return 0
   },
