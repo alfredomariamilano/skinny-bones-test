@@ -1,15 +1,15 @@
 ---
+title: Image Grids
+date: 2014-05-30 15:51:25 Z
+categories:
+- articles
 layout: article
-title: "Image Grids"
-date: 2014-05-30T11:51:25-04:00
-modified:
-categories: articles
-excerpt: "Demoing the various thumbnail grid styles."
-tags: []
+modified: 
+excerpt: Demoing the various thumbnail grid styles.
 ads: true
 image:
-  feature:
-  teaser:
+  feature: 
+  teaser: 
 ---
 
 This is a post to test image grids.

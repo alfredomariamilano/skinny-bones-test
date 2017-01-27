@@ -1,9 +1,14 @@
 ---
+title: A Post with Images
+date: 2013-05-22 00:00:00 Z
+categories:
+- articles
+tags:
+- sample
+- images
+- test
 layout: article
-title: "A Post with Images"
-categories: articles
-excerpt: "Examples and code for displaying images in posts."
-tags: [sample, images, test]
+excerpt: Examples and code for displaying images in posts.
 ads: true
 ---
 

@@ -1,10 +1,15 @@
 ---
+title: Testing Readability with a Bunch of Text
+date: 2012-05-22 00:00:00 Z
+categories:
+- articles
+tags:
+- sample
+- readability
+- test
 layout: article
-title: "Testing Readability with a Bunch of Text"
-categories: articles
-excerpt: "A ton of text to test readability."
+excerpt: A ton of text to test readability.
 author: billy_rick
-tags: [sample, readability, test]
 ads: true
 ---
 
